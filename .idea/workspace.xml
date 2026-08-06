@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33284db7-4906-4ba6-99e4-5958b5725a95" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000482" />
+      <entry key="MS500" value="1.00262162044605" />
+      <entry key="S2" value="1.3998332395168758" />
+      <entry key="S5" value="2.2757277723371563" />
+      <entry key="S10" value="2.9447601755849515" />
+      <entry key="S30" value="4.629020948126846" />
+      <entry key="S60" value="8.80627758083348" />
+      <entry key="M2" value="17.826807260702505" />
+      <entry key="M5" value="37.507700785705204" />
+      <entry key="M10" value="57.634249561552885" />
+      <entry key="M15" value="76.12121438791851" />
+      <entry key="M30" value="142.22085893069004" />
+      <entry key="H1" value="276.6973271898885" />
+      <entry key="H2" value="457.2719466196576" />
+      <entry key="H4" value="621.3048067783842" />
+      <entry key="D1" value="827.2377415091785" />
+      <entry key="W1" value="871.350242752406" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="5.862347658372982E-125" />
+      <entry key="S60" value="7.656596932301552E-63" />
+      <entry key="M2" value="8.750198244783682E-32" />
+      <entry key="M5" value="3.7740457197065654E-13" />
+      <entry key="M10" value="6.143326232348869E-7" />
+      <entry key="M15" value="7.226628325786485E-5" />
+      <entry key="M30" value="0.00850095778473606" />
+      <entry key="H1" value="0.0922006387436446" />
+      <entry key="H2" value="0.3036455808070389" />
+      <entry key="H4" value="0.551040452967875" />
+      <entry key="D1" value="0.9054488338730717" />
+      <entry key="W1" value="0.9859109768766031" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.20166043980557713" />
+      <entry key="MS500" value="0.7285693624383431" />
+      <entry key="S2" value="1.321468134581394" />
+      <entry key="S5" value="2.2422003872036553" />
+      <entry key="S10" value="2.9266506175066964" />
+      <entry key="S30" value="4.59585856217785" />
+      <entry key="S60" value="8.739096252815578" />
+      <entry key="M2" value="17.733104433051203" />
+      <entry key="M5" value="37.409732110281" />
+      <entry key="M10" value="57.55055268035112" />
+      <entry key="M15" value="76.04378415342823" />
+      <entry key="M30" value="142.15143359377004" />
+      <entry key="H1" value="276.7096997723804" />
+      <entry key="H2" value="457.5077514832405" />
+      <entry key="H4" value="621.8091567574419" />
+      <entry key="D1" value="828.1327303090702" />
+      <entry key="W1" value="872.3345774345071" />
+    </decayedShown>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HUf574cKHti2HX6afMKi1cS72h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PHP Script.index.php.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/../Shapes/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.8665.325" />
+        <option value="bundled-php-predefined-a98d8de5180a-ff90ddd8021d-com.jetbrains.php.sharedIndexes-PS-262.8665.325" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33284db7-4906-4ba6-99e4-5958b5725a95" name="Changes" comment="" />
+      <created>1785927381415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785927381415</updated>
+      <workItem from="1785927382452" duration="7285000" />
+      <workItem from="1785994543622" duration="8207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
